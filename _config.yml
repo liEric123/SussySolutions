@@ -1,7 +1,7 @@
 title: SussySolutions
 url: https://lieric123.github.io/SussySolutions/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This is my website. Change the description later.
+  Find solutions to problems below!
 
 permalink: /:slug
 
